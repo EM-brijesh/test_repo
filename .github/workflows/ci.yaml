@@ -28,4 +28,4 @@ jobs:
       run: npm run build
 
     - name: Run Next.js in production mode (optional)
-      run: npm run start  # This step runs the app in production mode
+      run: npm run start  
